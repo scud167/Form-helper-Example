@@ -1,5 +1,5 @@
 <?php
-    require 'helpers/form.php';
+    require 'form.php';
     $form = new form();
 ?>
 <!doctype html>
